@@ -10,7 +10,7 @@ Building toward OT Cybersecurity Engineering in offshore energy environments.
 - 📚 Google Cybersecurity Certificate (in progress)
 
 ## Building Toward
-Protecting industrial control systems in offshore oil and gas platforms —
+Protecting industrial control systems in offshore oil and gas platforms
 where network failures have physical consequences, not just digital ones.
 
 ## Projects

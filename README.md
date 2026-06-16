@@ -14,9 +14,9 @@ Protecting industrial control systems in offshore oil and gas platforms
 where network failures have physical consequences, not just digital ones.
 
 ## Projects
-- [Multi-Module C++ Application](link) — BODMAS calculator, 
+- [Multi-Module C++ Application](https://github.com/Kairus474/Multi-Module-Project) — BODMAS calculator, 
   temperature converter, ASCII windmill animator
-- [Sci-Fi HTML Survey Form](link) — themed FreeCodeCamp project
+- [Sci-Fi HTML Survey Form](https://github.com/Kairus474/scifi-html-survery-form) — themed FreeCodeCamp project
 - [Real Estate Sales System SQLite Java Database](https://github.com/Kairus474/real-estate-sales-system) — A security oriented
   Database Application for real estate unit sales 
 - sales management

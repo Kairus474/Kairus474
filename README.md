@@ -17,7 +17,7 @@ where network failures have physical consequences, not just digital ones.
 - [Multi-Module C++ Application](link) — BODMAS calculator, 
   temperature converter, ASCII windmill animator
 - [Sci-Fi HTML Survey Form](link) — themed FreeCodeCamp project
-- [Real Estate Sales System SQLite Java Database]([link](https://github.com/Kairus474/real-estate-sales-system)) — A security oriented
+- [Real Estate Sales System SQLite Java Database](https://github.com/Kairus474/real-estate-sales-system) — A security oriented
   Database Application for real estate unit sales 
 - sales management
 - Log Analyzer (coming July 2026) — Python security tool

@@ -18,8 +18,7 @@ where network failures have physical consequences, not just digital ones.
   temperature converter, ASCII windmill animator
 - [Sci-Fi HTML Survey Form](https://github.com/Kairus474/scifi-html-survery-form) — themed FreeCodeCamp project
 - [Real Estate Sales System SQLite Java Database](https://github.com/Kairus474/real-estate-sales-system) — A security oriented
-  Database Application for real estate unit sales 
-- sales management
+  Database Application for real estate unit sales management
 - Log Analyzer (coming July 2026) — Python security tool
 - Network Anomaly Detector (coming July 2026) — ML on ICS network data
 
